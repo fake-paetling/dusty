@@ -42,3 +42,4 @@ Once setup has been run, use `dusty bundles activate` to activate bundles for yo
 Finally, run `dusty up` to start your local environment.
 dog
 hey
+hey
